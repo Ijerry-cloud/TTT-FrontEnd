@@ -1,0 +1,902 @@
+.mx-2 {
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.center-middle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.flex-column {
+    flex-direction: column
+}
+
+.flex-between {
+    height: 150px;
+    margin-left: 4rem;
+    margin-right: 4rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container {
+    padding: 5px;
+}
+
+.font-cursive {
+    font-family: 'Baloo Bhaijaan', cursive;
+}
+
+.font-mono {
+    font-family: 'Share Tech Mono', monospace;
+}
+
+.icon {
+    font-size: 1.6em;
+    color: inherit;
+    text-decoration: none;
+    margin: 0 5px;
+}
+
+.center {
+    text-align: center
+}
+
+.login-button {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 8px 40px;
+    gap: 8px;
+
+    width: 128px;
+    height: 40px;
+
+    /* Dark Blue */
+    border: 2px solid #0A2640;
+    border-radius: 24px;
+
+    /* Inside auto layout */
+    flex: none;
+    order: 3;
+    flex-grow: 0;
+}
+
+.frame-284 {
+    /* Frame 284 */
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+
+    gap: 97px;
+    height: 423px;
+
+}
+
+.group-267 {
+    /* Group 267 */
+
+    margin: 0 auto;
+    width: 601px;
+    height: 370.5px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.med-text {
+    /* Funding handshake buyer business-to-business metrics iPad partnership. First mover advantage innovator success deployment non-disclosure. */
+
+
+    width: 601px;
+    height: 64px;
+
+
+    /* Paragraphs/Text XS */
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 28px;
+    /* or 175% */
+
+    /* Gray */
+    color: #777777;
+}
+
+.big-text {
+    /* Save time by building fast with Boldo Template */
+
+
+    width: 601px;
+    height: 140px;
+
+
+    /* Headings/Text XXL */
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 72px;
+    /* or 150% */
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
+
+.btn-group {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 10px;
+
+}
+
+.explore-btn {
+    /* Buttons */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 16px 56px;
+    gap: 8px;
+
+
+    width: 187px;
+    height: 60px;
+
+
+    /* Dark Blue */
+    border: 2px solid #0A2640;
+    border-radius: 56px;
+
+}
+
+.explore-btn2 {
+    /* Buttons */
+
+    /* Auto layout */
+
+
+    width: 187px;
+    height: 60px;
+    background: #65E4A3;
+
+
+
+    /* Dark Blue */
+    border: 2px solid #0A2640;
+    border-radius: 56px;
+
+}
+
+.explore-btn3 {
+    /* Buttons */
+
+    /* Auto layout */
+
+
+    width: 87px;
+    height: 30px;
+    background: #65E4A3;
+    margin-left: 2px;
+    border-radius: 56px;
+    border: none;
+
+}
+
+.input-email {
+    width: 287px;
+    height: 60px;
+
+
+    /* Dark Blue */
+    border: 2px solid #0A2640;
+    border-radius: 56px;
+
+}
+
+.buy-btn {
+    /* Buttons */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 16px 56px;
+    gap: 8px;
+
+
+    width: 247px;
+    height: 60px;
+
+
+    /* Dark Blue */
+    background: #0A2640;
+    /* Dark Blue */
+    border: 2px solid #0A2640;
+    border-radius: 56px;
+    color: white;
+}
+
+.hero-graphics {
+    /* HeroGraphics */
+    position: relative;
+
+    margin: 0 auto;
+    width: 494px;
+    height: 423px;
+
+}
+
+.chart {
+    /* Group 286 */
+
+
+    width: 184.01px;
+    height: 165.34px;
+    background-color: #3A5065;
+    border-radius: 20px;
+    margin: 5px;
+
+
+}
+
+.chart-grp {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.Group256 {
+    /* Group 256 */
+
+
+    width: 493.86px;
+    height: 231.9px;
+
+
+}
+
+.chart2 {
+    /* Group 264 */
+
+
+    width: 261.96px;
+    height: 165.34px;
+
+
+
+}
+
+.small-section {
+    /* Group 249 */
+    height: 78.83px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 2rem;
+    align-items: center;
+}
+
+.logo {
+    /* Logo */
+
+    width: 145px;
+    height: 42px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+}
+
+.service-section {
+    /* Rectangle 1272 */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 926px;
+
+
+    /* Dark Blue */
+    background: #0A2640;
+
+}
+
+.service-section4 {
+    /* Rectangle 1272 */
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 326px;
+
+
+    /* Dark Blue */
+    background: #0A2640;
+
+}
+
+.service-section2 {
+    /* Rectangle 1272 */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 926px;
+
+
+    /* Dark Blue */
+    background: #ffffff;
+
+}
+
+.service-section3 {
+    /* Rectangle 1272 */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 726px;
+
+
+    /* Dark Blue */
+    background: #ffffff;
+
+}
+
+.service-section7 {
+    /* Rectangle 1272 */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 326px;
+
+
+    /* Dark Blue */
+    background: #ffffff;
+
+}
+
+
+.service-section-white {
+    /* Rectangle 1272 */
+    padding-left: 5rem;
+    padding-right: 5rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    height: 726px;
+
+
+    /* Dark Blue */
+    background: white;
+
+}
+
+.service-container {
+    /* Heading */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    width: 842px;
+    height: 184px;
+
+}
+
+.service-container2 {
+    /* Heading */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.service-header {
+    /* Our Blog */
+
+    width: 116px;
+    height: 32px;
+
+    /* Paragraphs/Text S */
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    /* identical to box height, or 160% */
+    display: flex;
+    align-items: center;
+
+    /* Light Grey */
+    color: #F1F1F1;
+
+}
+
+.service-header3 {
+    /* Our Blog */
+
+    width: 116px;
+    height: 32px;
+
+    /* Paragraphs/Text S */
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 32px;
+    /* identical to box height, or 160% */
+    display: flex;
+    align-items: center;
+
+    /* Light Grey */
+    color: #000000;
+
+}
+
+.service-info {
+    /* Value proposition accelerator product management venture */
+
+    width: 842px;
+    height: 144px;
+
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    /* White */
+    color: #FFFFFF;
+
+
+}
+
+.two-btns {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.service-info3 {
+    /* Value proposition accelerator product management venture */
+
+    width: 842px;
+    height: 144px;
+
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 72px;
+    /* or 150% */
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+    /* White */
+    color: #000000;
+
+}
+
+.card {
+    /* Frame 280 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 24px;
+    margin-top: 2rem;
+
+    width: 300px;
+    height: 487px;
+    margin-left: 2rem;
+    margin-right: 2rem;
+
+
+}
+
+.card-image {
+    /* Rectangle 1270 */
+
+    width: 300px;
+    height: 354px;
+
+    border-radius: 24px;
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+}
+
+.card-image-2 {
+    /* Rectangle 1270 */
+
+    width: 300px;
+    height: 254px;
+    background-image: url('/public/woman.png');
+    background-size: contain;
+    border-radius: 24px;
+
+}
+
+.card-image-small {
+    /* Rectangle 1270 */
+
+    width: 100px;
+    height: 154px;
+
+    border-radius: 24px;
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+
+}
+
+.card-info {
+    /* Frame 279 */
+
+    /* Auto layout */
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 28px;
+
+    width: 300px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+
+}
+
+.card-text {
+    /* Frame 279 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 12px;
+
+    width: 293px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+
+.card-btn {
+    /* Frame 6 */
+
+    /* Auto layout */
+    display: flex;
+    background-color: transparent;
+    border: none;
+    border-bottom: solid 2px white;
+    color: white;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 8px;
+
+    width: 164px;
+    height: 35px;
+
+
+    /* Inside auto layout */
+    flex: none;
+    order: 1;
+    flex-grow: 0;
+
+}
+
+.card-div {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+}
+
+.card-group {
+    position: relative;
+}
+
+.card-absolute {
+    /* Frame 280 */
+    /* Auto layout */
+    position: absolute;
+    left: 11rem;
+    top: 16rem;
+    background-color: rgb(255, 255, 255);
+    box-shadow: 10px 10px 15px 5px rgba(0, 0, 0, 0.3);
+    border-radius: 15px;
+    width: 200px;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.man-img {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 24px;
+    margin-top: 2rem;
+
+    width: 430px;
+    height: 430px;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    background-image: url('/public/man.png');
+    background-size: cover;
+    border-radius: 24px;
+
+}
+
+.woman-img {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 24px;
+    margin-top: 2rem;
+
+    width: 430px;
+    height: 430px;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    background-image: url('/public/woman.png');
+    background-size: cover;
+    border-radius: 24px;
+
+}
+
+.card-info-black {
+    /* Frame 279 */
+
+    /* Auto layout */
+    color: black;
+
+}
+
+.cta-text {
+    /* We connect our customers with the best, and help them keep up-and stay open. */
+
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 36px;
+    line-height: 56px;
+
+}
+
+.text-icon {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    padding-left: 5px;
+    align-items: center;
+    gap: 20px;
+}
+
+.text-icon-black-bg {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    padding-left: 5px;
+    align-items: center;
+    gap: 20px;
+    color: white;
+    background: #0A2640;
+}
+
+.check {
+    height: 30px;
+    width: 30px;
+    border-radius: 20px;
+    background: #0A2640;
+}
+
+.check-blk {
+    height: 30px;
+    width: 30px;
+}
+
+.ent-section {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 15rem;
+    padding-left: 5rem;
+    padding-right: 5rem;
+
+}
+
+.ent-section2 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding-left: 8rem;
+    padding-right: 8rem;
+
+}
+
+.div-50 {
+    width: 50%;
+}
+
+.check-white {
+    height: 50px;
+    width: 50px;
+    background-color: white;
+    border-radius: 30px;
+    padding: 3px;
+}
+
+.arrow-section {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.cta-text-white {
+    color: white;
+    font-family: 'Manrope';
+    font-style: normal;
+    font-weight: 200;
+    font-size: 40px;
+    line-height: 56px;
+}
+
+.card-white {
+    /* Frame 280 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 24px;
+    margin-top: 2rem;
+
+    width: 300px;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.two-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-white2 {
+    /* Frame 280 */
+
+    /* Auto layout */
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 24px;
+    margin-top: 2rem;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    background-color: white;
+    border-radius: 10px;
+    padding: 20px;
+}
+
+.image-text-grp {
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: center;
+    gap: 20px;
+    width: 100%;
+}
+
+.card-info-container-black {
+    /* Frame 279 */
+
+    /* Auto layout */
+    color: black;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+
+    gap: 28px;
+
+}
+.small-p {
+    display: flex;
+    padding: 0px;
+    margin: 0px;
+}
+
+.normal-p {
+    display: flex;
+    padding: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 4px;
+    font-weight: 400;
+}
+
+.bold-p {
+    display: flex;
+    padding: 0px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    margin-left: 4px;
+    font-weight: 700;
+}
+
+.text-grp {
+    
+}
+
+.card-text-big {
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    
+}
